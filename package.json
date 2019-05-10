@@ -27,6 +27,48 @@
         "city": "Richmond",
         "date": "2019-05-12",
         "duration": 0
+      },
+      {
+        "venue": "First Chinese NA Baptist Church",
+        "city": "Vancouver",
+        "date": "0000-00-00",
+        "duration": 0
+      },
+      {
+        "venue": "Bethel Chinese Christian MB Church",
+        "city": "Vancouver",
+        "date": "0000-00-00",
+        "duration": 0
+      },
+      {
+        "venue": "Pacific Grace Mandarin Church",
+        "city": "Burnaby",
+        "date": "0000-00-00",
+        "duration": 0
+      },
+      {
+        "venue": "North Shore Pacific Grace MB Church",
+        "city": "North Vancouver",
+        "date": "0000-00-00",
+        "duration": 0
+      },
+      {
+        "venue": "Tri-City Canaan Church",
+        "city": "Port Coquitlam",
+        "date": "0000-00-00",
+        "duration": 0
+      },
+      {
+        "venue": "Richmond Chinese MB Church",
+        "city": "Richmond",
+        "date": "0000-00-00",
+        "duration": 0
+      },
+      {
+        "venue": "Zion Christian Reformed Church",
+        "city": "Abbotsford",
+        "date": "0000-00-00",
+        "duration": 0
       }
     ],
     "slides": [

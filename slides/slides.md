@@ -2,9 +2,6 @@
 # Quiet My Soul
 ## Psalm 62
 
->>>
-+	#fcnab #bethel #PGMC #nspg #TCCC #RCMB #Zion
-
 ---
 [1](# "ref")
 Truly my soul finds rest in God; <br>
