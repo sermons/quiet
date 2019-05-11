@@ -2,7 +2,24 @@
 # Quiet My Soul
 ## Psalm 62
 
+>>>
++ Mother's Day not always **happy** for every mother
++ sometimes reminder of painful **memories**
+  + own **failures** as parents or children
++ mothers always **giving** / serving
+  + sometimes feel **attacked**
+  + worst **enemies** sometimes are own family
+
 ---
+<!-- .slide: data-background="white" -->
+# How do I **deal** with **personal attacks**?
+
+>>>
++ not just for mothers
++ all who feel **beaten down** already
++ who are **attacked** by others with evil intent
+
+******
 [1](# "ref")
 Truly my soul finds rest in God; <br>
 my salvation comes from him.
@@ -82,32 +99,32 @@ according to what they have done.”
 
 ---
 <!-- .slide: class="outline" -->
-1. Despair [v3-4](# "ref")
-1. Decision [5-7](# "ref")
-1. Declaration [8-12](# "ref")
+1. Despair [v1-4](# "ref")
+1. Decision [v5-8](# "ref")
+1. Declaration [v9-12](# "ref")
 
 ---
-Truly my soul finds rest in God; <br>
-my salvation comes from him.
+**Truly** my **soul** finds **rest** in God; <br>
+my **salvation** comes from him.
 
 [2](# "ref")
 Truly he is my rock and my salvation; <br>
 he is my fortress, I will never be shaken.
 
-[Psalm 62 (NIV) (p.1/6)](# "ref")
+[Psalm 62:1-2 (NIV)](# "ref")
 
 >>>
-* 1 toward **God**, stillness (is) my life
-	* "truly"/only: **emphasis** on God
-	* "soul" (נֶפֶשׁ): throat, **appetite**, being
-	* "rest": **silence**: water, dumb rock
-* "salvation": wide space ("Jesus")
-* *damam*: still, silence
-	* Ps37:7a, 62:1
-* *qavah*: eager expectation (twist, tension)
-	* Is40:31, Ps37:9, 25:3, 130:5
-* *chul*: writhe, whirl, anguish
-	* Ps37:7b
++ toward **God**, stillness (is) my life
++ "truly"/only: **emphasis** on God
++ "rest": **silence**: water, dumb rock
+  + *damam*: still, silence
+    + Ps37:7a, 62:1
+  + *qavah*: eager expectation (twist, tension)
+    + Is40:31, Ps37:9, 25:3, 130:5
+  + *chul*: writhe, whirl, anguish
+    + Ps37:7b
++ "soul" (נֶפֶשׁ): throat, **appetite**, being
++ "salvation": wide space ("Jesus")
 
 ---
 [3](# "ref")
