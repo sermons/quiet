@@ -108,7 +108,7 @@ according to what they have done.”
 + 3 sections split by "Selah" (pause/rest)
 1. how **I** feel, what **they** intend
 1. what my soul will **do** <br> because of **who** God is
-1. what **truth** I have learned: <br> about **people**, **trust**, and **God**
+1. what **truth** I have learned: <br> about **people**, **power**, and **Providence**
 + Ps opens w/**conclusion**
   + if you forget everything else, **remember** this:
 
@@ -137,101 +137,153 @@ he is my **fortress**, I will never be shaken.
   + "rock", "fortress": **secure**, strong, trustworthy
 
 ---
-[3](# "ref")
-How long will you assault me?<br>
-Would all of you throw me down —<br>
-this leaning wall, this tottering fence?
-
-[4](# "ref")
-Surely they intend to topple me<br>
-from my lofty place;<br>
-they take delight in lies.<br>
-With their mouths they bless,<br>
-but in their hearts they curse.
-
-[Psalm 62 (NIV) (p.2/6)](# "ref")
+<!-- .slide: class="outline" -->
+## 1. Despair
 
 >>>
-* 3 "assault": **yelling**, rush in attack
-	* "throw down": **murder**
-* bulging **wall**, fence thrown down
-* 4 "intend": counsel, **know**, understand
-	* "topple": thrust/**tear down**, banish
-	* "lofty": **dignity**, majesty
-* "delight": find **favorable**: intent
-	* **lies**: bless with mouth
-* e.g. house-hunting: heard yelling
-	* e.g. mom yell at son after church
-	* vs silent treatment
++ **anguish** over being **attacked**
++ 1st complaint: own **emotions**/state
+  + their **actions** / words
 
 ---
-## Decision 5-7
+How long will you **assault** me?<br>
+Would all of you **throw** me down —
 
----
-[5](# "ref")
-Yes, my soul, find rest in God; <br>
-my hope comes from him.
+this **leaning** wall, <br>
+this **tottering** fence?
+
+[Psalm 62:3 (NIV)](# "ref")
 
 >>>
-* 1 indicative, **motion** towards God (*al-*)
-	* 5 **imperative**, expectant **direction** in regard to God (*le-*)
-* 1 "salvation" => 5 "**hope**"
++ "how long?": **continual**, ongoing
+  + already been **tolerating**
+  + can't **take** any more
++ "assault": **yelling**, rush in attack
+  + "throw down": **murder**
++ **bulging** wall, fence **thrown** down
+  + on the verge of **collapse**, giving up
++ 2nd complaint: attackers' evil **intent**
 
 ---
-[6](# "ref")
-Truly he is my rock and my salvation;<br>
-he is my fortress, I will not be shaken.
+Surely they **intend** to topple me<br>
+from my **lofty** place;<br>
+they take **delight** in **lies**.
+
+With their mouths they **bless**,<br>
+but in their hearts they **curse**.
+
+[Psalm 62:4 (NIV)](# "ref")
+
+>>>
++ "intend": counsel, **know**, understand
+  + "topple": thrust/**tear down**, banish
+  + "lofty": **dignity**, majesty
++ "delight": find **favorable**: intent
+  + **lies**: bless with mouth
+
+______
++ e.g. house-hunting: heard yelling
+  + e.g. mom yell at son after church
+  + vs silent treatment
+
+---
+<!-- .slide: class="outline" -->
+## 2. Decision
+
+>>>
++ cannot control **circumstances**
+  + how others **treat** us
++ can control our **response**:
++ **revenge**? they yell, we yell **louder**?
+  + they **humiliate** us, we humiliate them elsewhere?
++ **resignation**? give up, run away
+  + crawl into bed, depression, suicide?
++ or **refuge**?
+  + v5 **echoes** v1, but slightly diff:
+
+---
+Yes, my soul, **find rest** in God; <br>
+my **hope** comes from him.
+
+[Psalm 62:5 (NIV)](# "ref")
+
+>>>
++ v1: indicative, **motion** towards God (*al-*)
+  + v5 **imperative**, expectant **direction** in regard to God (*le-*)
++ **tell** my own soul to be **silent** in God's arms
+  + not "**find**" (passive, unable to find)
+  + but **be at rest** / silent (active, able)
++ 1 "salvation" => 5 "**hope**"
+
+---
+Truly he is my **rock **and my **salvation**;<br>
+he is my **fortress**, I will not be **shaken**.
 
 [7](# "ref")
-My salvation and my honor depend on God;<br>
-he is my mighty rock, my refuge. 
+My **salvation** and my **honor** depend on God;<br>
+he is my mighty rock, my **refuge**. 
+
+[Psalm 62:6-7 (NIV)](# "ref")
 
 >>>
 * rock (cliff), refuge (shelter), fortress (height)
 * salvation, not shaken, honor (glory)
+
+______
 * e.g. JJ shush us
 * e.g. wordless prayer @N.Van
 
 ---
-## Declaration 8-12
+**Trust** in him at all times, you people; <br>
+**pour out** your hearts to him, <br>
+for God is our **refuge**.
 
----
-[8](# "ref")
-Trust in him at all times, you people; <br>
-pour out your hearts to him, <br>
-for God is our refuge.
-
-[Psalm 62 (NIV) (p.4/6)](# "ref")
+[Psalm 62:8 (NIV)](# "ref")
 
 >>>
-* not Zen yoga / mindfulness
-* but **trust**: obedience
-	* **pour** out your heart
++ not Zen yoga / mindfulness
++ but **trust**: obedience
+  + **pour** out your heart
 
 ---
-[9](# "ref")
-Surely the lowborn are but a breath, <br>
-the highborn are but a lie.<br>
-If weighed on a balance, they are nothing;<br>
-together they are only a breath.
-
-[10](# "ref")
-Do not trust in extortion <br>
-or put vain hope in stolen goods; <br>
-though your riches increase,<br>
-do not set your heart on them. 
-
-[Psalm 62 (NIV) (p.5/6)](# "ref")
+<!-- .slide: class="outline" -->
+## 3. Declaration
 
 >>>
-* don't trust in
-	* **men**: *bene-Adam* vs *bene-ish*
-	* **might**: abusive authority, oppress
-		* stolen: rob, force / violence
-	* **money**: wealth/power
+1. how **I** feel, what **they** intend
+1. what my soul will **do** <br> because of **who** God is
+1. what **truth** I have learned: <br> about **people**, **power**, and **Providence**
 
 ---
-[11](# "ref")
+Surely the **lowborn** are but a **breath**, <br>
+the **highborn** are but a **lie**.
+
+If **weighed** on a balance, they are **nothing**;<br>
+together they are only a **breath**.
+
+[Psalm 62:9 (NIV)](# "ref")
+
+>>>
++ don't trust in **people**:
+  + *bene-Adam* vs *bene-ish*
+
+---
+Do not trust in **extortion** <br>
+or put vain hope in **stolen** goods;
+
+though your **riches** increase,<br>
+do not set your **heart** on them. 
+
+[Psalm 62:10 (NIV)](# "ref")
+
+>>>
++ don't trust in own **power**:
++ **might**: abusive authority, oppress
+  + stolen: rob, force / violence
++ **money**: wealth/power
++ trust in God's **Providence**:
+
+---
 One thing God has spoken,<br>
 two things I have heard:
 
@@ -242,7 +294,7 @@ and with you, Lord, is unfailing love”;
 and, “You reward everyone<br>
 according to what they have done.” 
 
-[Psalm 62 (NIV) (p.6/6)](# "ref")
+[Psalm 62:11-12 (NIV)](# "ref")
 
 >>>
 * e.g. single lady at home: hello to God
