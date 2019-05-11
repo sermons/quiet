@@ -284,23 +284,24 @@ do not set your **heart** on them.
 + trust in God's **Providence**:
 
 ---
-One thing God has spoken,<br>
-two things I have heard:
+**One** thing God has spoken,<br>
+**two** things I have heard:
 
-“Power belongs to you, God, <br>
+“**Power** belongs to you, God, <br>
 [12](# "ref")
-and with you, Lord, is unfailing love”; 
+and with you, Lord, is **unfailing love**”; 
 
-and, “You reward everyone<br>
-according to what they have done.” 
+and, “You **reward** everyone<br>
+according to what they have **done**.” 
 
 [Psalm 62:11-12 (NIV)](# "ref")
 
 >>>
-* e.g. single lady at home: hello to God
-* God owns **power** (strength) and
-* covenant **love**
++ e.g. single lady at home: hello to God
++ God owns **power** (strength) and
++ covenant **love**
 (חֶסֶד)
-	* Is40:6-8 as grass (Ho6:4 as dew)
-* **reward**/recompense: balance books
-	* *shalom*: justice+peace
+  + Is40:6-8 as grass (Ho6:4 as dew)
++ **reward**/recompense: balance books
+  + *shalom*: justice+peace
+
