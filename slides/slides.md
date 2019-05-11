@@ -18,6 +18,7 @@
 + not just for mothers
 + all who feel **beaten down** already
 + who are **attacked** by others with evil intent
++ feel **powerless** to fight or flee
 
 ******
 [1](# "ref")
@@ -98,18 +99,26 @@ according to what they have done.”
 [Psalm 62 (NIV) (p.6/6)](# "ref")
 
 ---
-<!-- .slide: class="outline" -->
+<!-- .slide: class="outline" id="outline" -->
 1. Despair [v1-4](# "ref")
 1. Decision [v5-8](# "ref")
 1. Declaration [v9-12](# "ref")
+
+>>>
++ 3 sections split by "Selah" (pause/rest)
+1. how **I** feel, what **they** intend
+1. what my soul will **do** <br> because of **who** God is
+1. what **truth** I have learned: <br> about **people**, **trust**, and **God**
++ Ps opens w/**conclusion**
+  + if you forget everything else, **remember** this:
 
 ---
 **Truly** my **soul** finds **rest** in God; <br>
 my **salvation** comes from him.
 
 [2](# "ref")
-Truly he is my rock and my salvation; <br>
-he is my fortress, I will never be shaken.
+Truly he is my **rock** and my salvation; <br>
+he is my **fortress**, I will never be shaken.
 
 [Psalm 62:1-2 (NIV)](# "ref")
 
@@ -125,6 +134,7 @@ he is my fortress, I will never be shaken.
     + Ps37:7b
 + "soul" (נֶפֶשׁ): throat, **appetite**, being
 + "salvation": wide space ("Jesus")
+  + "rock", "fortress": **secure**, strong, trustworthy
 
 ---
 [3](# "ref")
