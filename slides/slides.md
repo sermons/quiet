@@ -4,11 +4,13 @@
 [Mark Basarab](https://unsplash.com/photos/1k5Qq4YQM0g "caption")
 
 >>>
-+ Mother's Day not always **happy** for every mother
++ Mother's Day not always **happy** for everyone
++ those who **desire** to be mothers but unable
+  + those who never knew a mother's **love**
 + sometimes reminder of painful **memories**
   + own **failures** as parents or children
-+ mothers always **giving** / serving
-  + sometimes feel **attacked**
++ sometimes feel **attacked**
+  + mothers always **giving** / serving
   + worst **enemies** sometimes are own family
 
 ---
@@ -19,7 +21,14 @@
 + not just for mothers
 + all who feel **beaten down** already
 + who are **attacked** by others with evil intent
-+ feel **powerless** to fight or flee
+  + feel **powerless** to fight or flee
++ 3 **levels** of application:
+  + psalmist, us, and **Christ**
++ let the **words** of this psalm
+  + be your **prayer** + commitment
++ your sorrows are uniquely your **own**
+  + but they've been **carried** for you
+  + by **Christ** the man of sorrows
 
 ******
 [1](# "ref")
@@ -109,7 +118,7 @@ according to what they have done.”
 + 3 sections split by "Selah" (pause/rest)
 1. how **I** feel, what **they** intend
 1. what my soul will **do** <br> because of **who** God is
-1. what **truth** I have learned: <br> about **people**, **power**, and **Providence**
+1. what **truth** this reveals: <br> about **people**, **power**, and **Providence**
 + Ps opens w/**conclusion**
   + if you forget everything else, **remember** this:
 
