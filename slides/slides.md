@@ -4,24 +4,25 @@
 [Mark Basarab](https://unsplash.com/photos/1k5Qq4YQM0g "caption")
 
 >>>
-+ Mother's Day not always **happy** for everyone
-+ those who **desire** to be mothers but unable
-  + those who never knew a mother's **love**
-+ sometimes reminder of painful **memories**
-  + own **failures** as parents or children
++ Mother's Day not always **happy**:
++ those who **desire** to be m. but unable
+  + those never knew a m.'s **love**
++ stm reminder of painful **memories**
+  + own **fails** as parent/child
 + sometimes feel **attacked**
   + mothers always **giving** / serving
-  + worst **enemies** sometimes are own family
++ worst **enemies** stm own family
 
 ---
 <!-- .slide: data-background="white" -->
 # How do I **deal** with **personal attacks**?
 
 >>>
-+ not just for mothers
-+ all who feel **beaten down** already
-+ who are **attacked** by others with evil intent
-  + feel **powerless** to fight or flee
++ not just for mothers, but all who
+  + feel **beaten down**
++ **attacked** by others w/evil intent
+  + feel **powerless** to fight/flee
+______
 + 3 **levels** of application:
   + psalmist, us, and **Christ**
 + let the **words** of this psalm
@@ -115,12 +116,11 @@ according to what they have done.”
 1. Declaration [v9-12](# "ref")
 
 >>>
-+ 3 sections split by "Selah" (pause/rest)
++ split by "Selah" (pause/rest)
 1. how **I** feel, what **they** intend
 1. what my soul will **do** <br> because of **who** God is
 1. what **truth** this reveals: <br> about **people**, **power**, and **Providence**
-+ Ps opens w/**conclusion**
-  + if you forget everything else, **remember** this:
++ Opens w/**conclusion**:
 
 ---
 <!-- .slide: <%= bg("unsplash-3sR_0NhWMEI-water_ocean_calm.jpg") %> -->
@@ -141,14 +141,16 @@ he is my **fortress**, I will never be shaken.
   + as I draw **closer** to God
 + "rest": **silence**: water, dumb rock
   + *damam*: still, quiet
-    + Ps37:7a, 62:1
-  + *qavah*: eager expectation (twist, tension)
-    + Is40:31, Ps37:9, 25:3, 130:5
-  + *chul*: writhe, whirl, anguish
-    + Ps37:7b
+  + c.f. *qavah*: eager expect
+  + c.f. *chul*: writhe, whirl, anguish
 + "soul" (נֶפֶשׁ): throat, **appetite**, being
 + "salvation": wide space ("Jesus")
-  + "rock", "fortress": **secure**, strong, trustworthy
++ "rock", "fortress": **secure**, strong
+
+______
+> *damam*: Ps37:7a, 62:1
+> *qavah* (twist, tension): Is40:31, Ps37:9, 25:3, 130:5
+> *chul*: Ps37:7b
 
 ---
 <!-- .slide: <%= bg("unsplash-1k5Qq4YQM0g-mtn_lake_sunset.jpg") %> class="outline" -->
@@ -158,8 +160,9 @@ he is my **fortress**, I will never be shaken.
 
 >>>
 + **anguish** over being **attacked**
-+ 1st complaint: own **emotions**/state
-  + their **actions** / words
++ complaint is in 2 **parts**: 1st is
++ their **actions** / words and
++ my **emotions** / state
 
 ---
 <!-- .slide: <%= bg("unsplash-Zi8-E3qJ_RM-crying_old_woman.jpg") %> -->
@@ -195,6 +198,8 @@ but in their hearts they **curse**.
 [Kristina Flour](https://unsplash.com/photos/BcjdbyKWquw "caption")
 
 >>>
++ we can't **judge** other's **hearts**
+  + but this is how it **feels**
 + "intend": counsel, **know**, understand
   + "topple": thrust/**tear down**, banish
   + "lofty": **dignity**, majesty
@@ -209,7 +214,10 @@ ______
 ---
 <!-- .slide: data-background="white" -->
 # Have others **torn** me down? 
-# Have I done the **same**?
+# Have **I** done <br> the same?
+
+>>>
++ or **intended** to tear down
 
 ---
 <!-- .slide: <%= bg("unsplash-1k5Qq4YQM0g-mtn_lake_sunset.jpg") %> class="outline" -->
@@ -224,7 +232,7 @@ ______
 + **revenge**? they yell, we yell **louder**?
   + they **humiliate** us, we humiliate them elsewhere?
 + **resignation**? give up, run away
-  + crawl into bed, depression, suicide?
+  + hide in bed, depr, suicide?
 + or **refuge**?
   + v5 **echoes** v1, but slightly diff:
 
@@ -238,14 +246,14 @@ my **hope** comes from him.
 
 >>>
 + v1 indicative vs v5 **imperative**
-+ **tell** my own soul:
-  + not "**find rest**" (passive, unable to find)
+  + **tell** my own soul:
++ not "**find rest**" (psv, unable to find)
   + but **be at rest** / quiet:
   + active, we are **able** to do
-+ v1: indicative, **motion** towards God (*al-*)
-  + v5 **imperative**, expectant **direction** in regard to God (*le-*)
++ v1: **motion** towards God (*al-*)
+  + v5: expectant **direction** in regard to God (*le-*)
 + quietly **anticipate** God's rescue
-+ 1 "salvation" => 5 "**hope**"
++ v1 "salvation" => v5 "**hope**"
 
 ---
 <!-- .slide: <%= bg("unsplash-FAVdyq1Qz24-aus-rock-beach.jpg") %> -->
@@ -278,11 +286,18 @@ for God is our **refuge**.
 
 >>>
 + trust implies **obedience**
+  + **believe** God's promises
+  + continue to live **worthily** of His calling
 + **pour** out your heart
+  + when **no** one else understands
 
 ---
 <!-- .slide: data-background="white" -->
 # Do I **wait** upon God as my **refuge**?
+
+>>>
++ who **God** is
++ what I **tell** my soul to do
 
 ---
 <!-- .slide: <%= bg("unsplash-1k5Qq4YQM0g-mtn_lake_sunset.jpg") %> class="outline" -->
@@ -293,7 +308,7 @@ for God is our **refuge**.
 >>>
 1. how **I** feel, what **they** intend
 1. what my soul will **do** <br> because of **who** God is
-1. what **truth** I have learned: <br> about **people**, **power**, and **Providence**
+1. what **truth** this reveals: <br> about **people**, **power**, and **Providence**
 
 ---
 <!-- .slide: <%= bg("unsplash-rdwkamJlpiU-mist-mtns.jpg") %> -->
@@ -308,9 +323,9 @@ together they are only a **breath**.
 
 >>>
 + don't trust in **people**:
-  + Hebrew culture: whose son are you?
+  + Heb culture: whose **son** are you?
 + "highborn" *(bene-ish)*: son of **a man**
-  + **well-known** family, good reputation
+  + **well-known** fam, good repute
 + "lowborn" *(bene-Adam)*: son of **Adam**
   + if father was a **nobody**
   + everyone is at least a son of Adam
@@ -344,12 +359,12 @@ do not set your **heart** on them.
 
 ---
 <!-- .slide: <%= bg("unsplash-78A265wPiO4-sunlit_valley.jpg") %> -->
-“**Power** belongs to you, God, <br>
+**Power** belongs to you, God, <br>
 [12](# "ref")
-and with you, Lord, is **unfailing love**”; 
+and with you, Lord, is **unfailing love**; 
 
-and, “You **reward** everyone<br>
-according to what they have **done**.” 
+and You **reward** everyone<br>
+according to what they have **done**.
 
 [Psalm 62:11-12 (NIV)](# "ref")
 [Ciucaș Peak, Romania. David Marcu](https://unsplash.com/photos/78A265wPiO4 "caption")
@@ -359,12 +374,12 @@ according to what they have **done**.”
 + covenant **love** (חֶסֶד)
   + Is40:6-8 as grass (Ho6:4 as dew)
 + **reward**/recompense: balance books
-  + vengeance is in **His** hands, not mine
+  + revenge is in **His** hands, not mine
   + *shalom*: justice+peace
 
 ---
 <!-- .slide: data-background="white" -->
-## What has my **suffering** revealed about **people**, **power**, and God's **Providence**?
+# What has my **suffering** revealed about **people**, **power**, and God's **Providence**?
 
 ---
 <!-- .slide: <%= bg("unsplash-1k5Qq4YQM0g-mtn_lake_sunset.jpg") %> -->
