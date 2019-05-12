@@ -1,4 +1,4 @@
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="title" -->
+<!-- .slide: <%= bg("unsplash-1k5Qq4YQM0g-mtn_lake_sunset.jpg") %> id="title" -->
 # Quiet My Soul
 ## Psalm 62
 
@@ -99,7 +99,7 @@ according to what they have done.”
 [Psalm 62 (NIV) (p.6/6)](# "ref")
 
 ---
-<!-- .slide: class="outline" id="outline" -->
+<!-- .slide: <%= bg("unsplash-1k5Qq4YQM0g-mtn_lake_sunset.jpg") %> class="outline" id="outline" -->
 1. Despair [v1-4](# "ref")
 1. Decision [v5-8](# "ref")
 1. Declaration [v9-12](# "ref")
@@ -137,8 +137,10 @@ he is my **fortress**, I will never be shaken.
   + "rock", "fortress": **secure**, strong, trustworthy
 
 ---
-<!-- .slide: class="outline" -->
-## 1. Despair
+<!-- .slide: <%= bg("unsplash-1k5Qq4YQM0g-mtn_lake_sunset.jpg") %> class="outline" -->
+1. **Despair** [v1-4](# "ref")
+1. Decision [v5-8](# "ref")
+1. Declaration [v9-12](# "ref")
 
 >>>
 + **anguish** over being **attacked**
@@ -187,8 +189,10 @@ ______
   + vs silent treatment
 
 ---
-<!-- .slide: class="outline" -->
-## 2. Decision
+<!-- .slide: <%= bg("unsplash-1k5Qq4YQM0g-mtn_lake_sunset.jpg") %> class="outline" -->
+1. Despair [v1-4](# "ref")
+1. **Decision** [v5-8](# "ref")
+1. Declaration [v9-12](# "ref")
 
 >>>
 + cannot control **circumstances**
@@ -246,8 +250,10 @@ for God is our **refuge**.
   + **pour** out your heart
 
 ---
-<!-- .slide: class="outline" -->
-## 3. Declaration
+<!-- .slide: <%= bg("unsplash-1k5Qq4YQM0g-mtn_lake_sunset.jpg") %> class="outline" -->
+1. Despair [v1-4](# "ref")
+1. Decision [v5-8](# "ref")
+1. **Declaration** [v9-12](# "ref")
 
 >>>
 1. how **I** feel, what **they** intend
@@ -305,3 +311,17 @@ according to what they have **done**.”
 + **reward**/recompense: balance books
   + *shalom*: justice+peace
 
+---
+<!-- .slide: <%= bg("unsplash-1k5Qq4YQM0g-mtn_lake_sunset.jpg") %> -->
+[5](# "ref")
+Yes, my soul, **find rest** in God; <br>
+my **hope** comes from him.
+
+[6](# "ref")
+Truly he is my **rock** and my **salvation**;<br>
+he is my **fortress**, I will not be shaken.
+
+[Psalm 62:5-6 (NIV)](# "ref")
+
+---
+<!-- .slide: <%= bg("unsplash-1k5Qq4YQM0g-mtn_lake_sunset.jpg") %> class="empty" -->
