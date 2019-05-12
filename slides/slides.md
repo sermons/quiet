@@ -1,6 +1,7 @@
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="title" -->
+<!-- .slide: <%= bg("unsplash-1k5Qq4YQM0g-mtn_lake_sunset.jpg") %> id="title" -->
 # Quiet My Soul
 ## Psalm 62
+[Mark Basarab](https://unsplash.com/photos/1k5Qq4YQM0g "caption")
 
 >>>
 + Mother's Day not always **happy** for every mother
@@ -99,7 +100,7 @@ according to what they have done.”
 [Psalm 62 (NIV) (p.6/6)](# "ref")
 
 ---
-<!-- .slide: class="outline" id="outline" -->
+<!-- .slide: <%= bg("unsplash-1k5Qq4YQM0g-mtn_lake_sunset.jpg") %> class="outline" id="outline" -->
 1. Despair [v1-4](# "ref")
 1. Decision [v5-8](# "ref")
 1. Declaration [v9-12](# "ref")
@@ -113,6 +114,7 @@ according to what they have done.”
   + if you forget everything else, **remember** this:
 
 ---
+<!-- .slide: <%= bg("unsplash-3sR_0NhWMEI-water_ocean_calm.jpg") %> -->
 **Truly** my **soul** finds **rest** in God; <br>
 my **salvation** comes from him.
 
@@ -139,8 +141,10 @@ he is my **fortress**, I will never be shaken.
   + "rock", "fortress": **secure**, strong, trustworthy
 
 ---
-<!-- .slide: class="outline" -->
-## 1. Despair
+<!-- .slide: <%= bg("unsplash-1k5Qq4YQM0g-mtn_lake_sunset.jpg") %> class="outline" -->
+1. **Despair** [v1-4](# "ref")
+1. Decision [v5-8](# "ref")
+1. Declaration [v9-12](# "ref")
 
 >>>
 + **anguish** over being **attacked**
@@ -148,6 +152,7 @@ he is my **fortress**, I will never be shaken.
   + their **actions** / words
 
 ---
+<!-- .slide: <%= bg("unsplash-Zi8-E3qJ_RM-crying_old_woman.jpg") %> -->
 How long will you **assault** me?<br>
 Would all of you **throw** me down —
 
@@ -189,8 +194,10 @@ ______
   + vs silent treatment
 
 ---
-<!-- .slide: class="outline" -->
-## 2. Decision
+<!-- .slide: <%= bg("unsplash-1k5Qq4YQM0g-mtn_lake_sunset.jpg") %> class="outline" -->
+1. Despair [v1-4](# "ref")
+1. **Decision** [v5-8](# "ref")
+1. Declaration [v9-12](# "ref")
 
 >>>
 + cannot control **circumstances**
@@ -204,6 +211,7 @@ ______
   + v5 **echoes** v1, but slightly diff:
 
 ---
+<!-- .slide: <%= bg("unsplash-CPPFtCHY6mo-pray_bible.jpg") %> -->
 Yes, my soul, **find rest** in God; <br>
 my **hope** comes from him.
 
@@ -221,7 +229,8 @@ my **hope** comes from him.
 + 1 "salvation" => 5 "**hope**"
 
 ---
-Truly he is my **rock **and my **salvation**;<br>
+<!-- .slide: <%= bg("unsplash-FAVdyq1Qz24-aus-rock-beach.jpg") %> -->
+Truly he is my **rock** and my **salvation**;<br>
 he is my **fortress**, I will not be **shaken**.
 
 [7](# "ref")
@@ -251,8 +260,10 @@ for God is our **refuge**.
   + **pour** out your heart
 
 ---
-<!-- .slide: class="outline" -->
-## 3. Declaration
+<!-- .slide: <%= bg("unsplash-1k5Qq4YQM0g-mtn_lake_sunset.jpg") %> class="outline" -->
+1. Despair [v1-4](# "ref")
+1. Decision [v5-8](# "ref")
+1. **Declaration** [v9-12](# "ref")
 
 >>>
 1. how **I** feel, what **they** intend
@@ -260,6 +271,7 @@ for God is our **refuge**.
 1. what **truth** I have learned: <br> about **people**, **power**, and **Providence**
 
 ---
+<!-- .slide: <%= bg("unsplash-rdwkamJlpiU-mist-mtns.jpg") %> -->
 Surely the **lowborn** are but a **breath**, <br>
 the **highborn** are but a **lie**.
 
@@ -270,7 +282,21 @@ together they are only a **breath**.
 
 >>>
 + don't trust in **people**:
-  + *bene-Adam* vs *bene-ish*
+  + Hebrew culture: whose son are you?
++ "highborn" *(bene-ish)*: son of **a man**
+  + **well-known** family, good reputation
++ "lowborn" *(bene-Adam)*: son of **Adam**
+  + if father was a **nobody**
+  + everyone is at least a son of Adam
++ the pair repr **totality** of mankind
++ don't **chase** after human **acceptance**
+  + to be appreciated by **kids**
+  + to be loved by **spouse**
+  + to be affirmed by **parents**
+  + to be accepted by **friends**
++ for **all** of us are only a **breath**
+  + fix your **hope** on **God** alone
+  + **obedience** to His call
 
 ---
 Do not trust in **extortion** <br>
@@ -289,9 +315,6 @@ do not set your **heart** on them.
 + trust in God's **Providence**:
 
 ---
-**One** thing God has spoken,<br>
-**two** things I have heard:
-
 “**Power** belongs to you, God, <br>
 [12](# "ref")
 and with you, Lord, is **unfailing love**”; 
@@ -310,3 +333,17 @@ according to what they have **done**.”
 + **reward**/recompense: balance books
   + *shalom*: justice+peace
 
+---
+<!-- .slide: <%= bg("unsplash-1k5Qq4YQM0g-mtn_lake_sunset.jpg") %> -->
+[5](# "ref")
+Yes, my soul, **find rest** in God; <br>
+my **hope** comes from him.
+
+[6](# "ref")
+Truly he is my **rock** and my **salvation**;<br>
+he is my **fortress**, I will not be shaken.
+
+[Psalm 62:5-6 (NIV)](# "ref")
+
+---
+<!-- .slide: <%= bg("unsplash-1k5Qq4YQM0g-mtn_lake_sunset.jpg") %> class="empty" -->
