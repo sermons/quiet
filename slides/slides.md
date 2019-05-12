@@ -291,9 +291,6 @@ do not set your **heart** on them.
 + trust in God's **Providence**:
 
 ---
-**One** thing God has spoken,<br>
-**two** things I have heard:
-
 “**Power** belongs to you, God, <br>
 [12](# "ref")
 and with you, Lord, is **unfailing love**”; 
