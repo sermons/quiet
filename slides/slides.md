@@ -208,7 +208,8 @@ ______
 
 ---
 <!-- .slide: data-background="white" -->
-# Q1
+# Have others **torn** me down? 
+# Have I done the **same**?
 
 ---
 <!-- .slide: <%= bg("unsplash-1k5Qq4YQM0g-mtn_lake_sunset.jpg") %> class="outline" -->
@@ -281,7 +282,7 @@ for God is our **refuge**.
 
 ---
 <!-- .slide: data-background="white" -->
-# Q2
+# Do I **wait** upon God as my **refuge**?
 
 ---
 <!-- .slide: <%= bg("unsplash-1k5Qq4YQM0g-mtn_lake_sunset.jpg") %> class="outline" -->
@@ -363,7 +364,7 @@ according to what they have **done**.”
 
 ---
 <!-- .slide: data-background="white" -->
-# Q3
+## What has my **suffering** revealed about **people**, **power**, and God's **Providence**?
 
 ---
 <!-- .slide: <%= bg("unsplash-1k5Qq4YQM0g-mtn_lake_sunset.jpg") %> -->
