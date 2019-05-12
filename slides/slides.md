@@ -114,6 +114,7 @@ according to what they have done.”
   + if you forget everything else, **remember** this:
 
 ---
+<!-- .slide: <%= bg("unsplash-3sR_0NhWMEI-water_ocean_calm.jpg") %> -->
 **Truly** my **soul** finds **rest** in God; <br>
 my **salvation** comes from him.
 
@@ -149,6 +150,7 @@ he is my **fortress**, I will never be shaken.
   + their **actions** / words
 
 ---
+<!-- .slide: <%= bg("unsplash-Zi8-E3qJ_RM-crying_old_woman.jpg") %> -->
 How long will you **assault** me?<br>
 Would all of you **throw** me down —
 
@@ -207,6 +209,7 @@ ______
   + v5 **echoes** v1, but slightly diff:
 
 ---
+<!-- .slide: <%= bg("unsplash-CPPFtCHY6mo-pray_bible.jpg") %> -->
 Yes, my soul, **find rest** in God; <br>
 my **hope** comes from him.
 
@@ -221,6 +224,7 @@ my **hope** comes from him.
 + 1 "salvation" => 5 "**hope**"
 
 ---
+<!-- .slide: <%= bg("unsplash-FAVdyq1Qz24-aus-rock-beach.jpg") %> -->
 Truly he is my **rock** and my **salvation**;<br>
 he is my **fortress**, I will not be **shaken**.
 
@@ -262,6 +266,7 @@ for God is our **refuge**.
 1. what **truth** I have learned: <br> about **people**, **power**, and **Providence**
 
 ---
+<!-- .slide: <%= bg("unsplash-rdwkamJlpiU-mist-mtns.jpg") %> -->
 Surely the **lowborn** are but a **breath**, <br>
 the **highborn** are but a **lie**.
 
@@ -272,7 +277,21 @@ together they are only a **breath**.
 
 >>>
 + don't trust in **people**:
-  + *bene-Adam* vs *bene-ish*
+  + Hebrew culture: whose son are you?
++ "highborn" *(bene-ish)*: son of **a man**
+  + **well-known** family, good reputation
++ "lowborn" *(bene-Adam)*: son of **Adam**
+  + if father was a **nobody**
+  + everyone is at least a son of Adam
++ the pair repr **totality** of mankind
++ don't **chase** after human **acceptance**
+  + to be appreciated by **kids**
+  + to be loved by **spouse**
+  + to be affirmed by **parents**
+  + to be accepted by **friends**
++ for **all** of us are only a **breath**
+  + fix your **hope** on **God** alone
+  + **obedience** to His call
 
 ---
 Do not trust in **extortion** <br>
