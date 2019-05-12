@@ -123,6 +123,7 @@ Truly he is my **rock** and my salvation; <br>
 he is my **fortress**, I will never be shaken.
 
 [Psalm 62:1-2 (NIV)](# "ref")
+[Hạ Long Bay, Vietnam. Vincent Guth](https://unsplash.com/photos/3sR_0NhWMEI "caption")
 
 >>>
 + toward **God**, stillness (is) my life
@@ -160,6 +161,7 @@ this **leaning** wall, <br>
 this **tottering** fence?
 
 [Psalm 62:3 (NIV)](# "ref")
+[Yuriria, Mexico.  Cristian Newman](https://unsplash.com/photos/Zi8-E3qJ_RM "caption")
 
 >>>
 + "how long?": **continual**, ongoing
@@ -172,6 +174,7 @@ this **tottering** fence?
 + 2nd complaint: attackers' evil **intent**
 
 ---
+<!-- .slide: <%= bg("unsplash-BcjdbyKWquw-hush.jpg") %> -->
 Surely they **intend** to topple me<br>
 from my **lofty** place;<br>
 they take **delight** in **lies**.
@@ -180,6 +183,7 @@ With their mouths they **bless**,<br>
 but in their hearts they **curse**.
 
 [Psalm 62:4 (NIV)](# "ref")
+[Kristina Flour](https://unsplash.com/photos/BcjdbyKWquw "caption")
 
 >>>
 + "intend": counsel, **know**, understand
@@ -192,6 +196,10 @@ ______
 + e.g. house-hunting: heard yelling
   + e.g. mom yell at son after church
   + vs silent treatment
+
+---
+<!-- .slide: data-background="white" -->
+# Q1
 
 ---
 <!-- .slide: <%= bg("unsplash-1k5Qq4YQM0g-mtn_lake_sunset.jpg") %> class="outline" -->
@@ -211,11 +219,12 @@ ______
   + v5 **echoes** v1, but slightly diff:
 
 ---
-<!-- .slide: <%= bg("unsplash-CPPFtCHY6mo-pray_bible.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> -->
 Yes, my soul, **find rest** in God; <br>
 my **hope** comes from him.
 
 [Psalm 62:5 (NIV)](# "ref")
+[Montreal, CA. Marc-Olivier Jodoin](https://unsplash.com/photos/TStNU7H4UEE "caption")
 
 >>>
 + v1 indicative vs v5 **imperative**
@@ -238,6 +247,7 @@ My **salvation** and my **honor** depend on God;<br>
 he is my mighty rock, my **refuge**. 
 
 [Psalm 62:6-7 (NIV)](# "ref")
+[Elephant Rock, Australia. Jordan Donaldson](https://unsplash.com/photos/FAVdyq1Qz24 "caption")
 
 >>>
 + rock (cliff), refuge (shelter), fortress (height)
@@ -248,16 +258,21 @@ ______
 * e.g. wordless prayer @N.Van
 
 ---
+<!-- .slide: <%= bg("unsplash--lYk9rDI2UU-autumn_forest_beams.jpg") %> -->
 **Trust** in him at all times, you people; <br>
 **pour out** your hearts to him, <br>
 for God is our **refuge**.
 
 [Psalm 62:8 (NIV)](# "ref")
+[Ricardo Gomez Angel](https://unsplash.com/photos/-lYk9rDI2UU "caption")
 
 >>>
-+ not Zen yoga / mindfulness
-+ but **trust**: obedience
-  + **pour** out your heart
++ trust implies **obedience**
++ **pour** out your heart
+
+---
+<!-- .slide: data-background="white" -->
+# Q2
 
 ---
 <!-- .slide: <%= bg("unsplash-1k5Qq4YQM0g-mtn_lake_sunset.jpg") %> class="outline" -->
@@ -279,6 +294,7 @@ If **weighed** on a balance, they are **nothing**;<br>
 together they are only a **breath**.
 
 [Psalm 62:9 (NIV)](# "ref")
+[Savoie, France. Thomas Tixtaaz](https://unsplash.com/photos/rdwkamJlpiU "caption")
 
 >>>
 + don't trust in **people**:
@@ -299,6 +315,7 @@ together they are only a **breath**.
   + **obedience** to His call
 
 ---
+<!-- .slide: <%= bg("negativespace-money.jpg") %> -->
 Do not trust in **extortion** <br>
 or put vain hope in **stolen** goods;
 
@@ -306,6 +323,7 @@ though your **riches** increase,<br>
 do not set your **heart** on them. 
 
 [Psalm 62:10 (NIV)](# "ref")
+[NegativeSpace](https://www.pexels.com/photo/working-business-money-coins-34204/ "caption")
 
 >>>
 + don't trust in own **power**:
@@ -315,6 +333,7 @@ do not set your **heart** on them.
 + trust in God's **Providence**:
 
 ---
+<!-- .slide: <%= bg("unsplash-78A265wPiO4-sunlit_valley.jpg") %> -->
 “**Power** belongs to you, God, <br>
 [12](# "ref")
 and with you, Lord, is **unfailing love**”; 
@@ -323,15 +342,19 @@ and, “You **reward** everyone<br>
 according to what they have **done**.” 
 
 [Psalm 62:11-12 (NIV)](# "ref")
+[Ciucaș Peak, Romania. David Marcu](https://unsplash.com/photos/78A265wPiO4 "caption")
 
 >>>
-+ e.g. single lady at home: hello to God
 + God owns **power** (strength) and
-+ covenant **love**
-(חֶסֶד)
++ covenant **love** (חֶסֶד)
   + Is40:6-8 as grass (Ho6:4 as dew)
 + **reward**/recompense: balance books
+  + vengeance is in **His** hands, not mine
   + *shalom*: justice+peace
+
+---
+<!-- .slide: data-background="white" -->
+# Q3
 
 ---
 <!-- .slide: <%= bg("unsplash-1k5Qq4YQM0g-mtn_lake_sunset.jpg") %> -->
