@@ -1,6 +1,7 @@
 <!-- .slide: <%= bg("unsplash-1k5Qq4YQM0g-mtn_lake_sunset.jpg") %> id="title" -->
 # Quiet My Soul
 ## Psalm 62
+[Mark Basarab](https://unsplash.com/photos/1k5Qq4YQM0g "caption")
 
 >>>
 + Mother's Day not always **happy** for every mother
