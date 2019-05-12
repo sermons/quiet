@@ -125,8 +125,10 @@ he is my **fortress**, I will never be shaken.
 >>>
 + toward **God**, stillness (is) my life
 + "truly"/only: **emphasis** on God
+  + "in": motion **toward**
+  + as I draw **closer** to God
 + "rest": **silence**: water, dumb rock
-  + *damam*: still, silence
+  + *damam*: still, quiet
     + Ps37:7a, 62:1
   + *qavah*: eager expectation (twist, tension)
     + Is40:31, Ps37:9, 25:3, 130:5
@@ -208,11 +210,14 @@ my **hope** comes from him.
 [Psalm 62:5 (NIV)](# "ref")
 
 >>>
++ v1 indicative vs v5 **imperative**
++ **tell** my own soul:
+  + not "**find rest**" (passive, unable to find)
+  + but **be at rest** / quiet:
+  + active, we are **able** to do
 + v1: indicative, **motion** towards God (*al-*)
   + v5 **imperative**, expectant **direction** in regard to God (*le-*)
-+ **tell** my own soul to be **silent** in God's arms
-  + not "**find**" (passive, unable to find)
-  + but **be at rest** / silent (active, able)
++ quietly **anticipate** God's rescue
 + 1 "salvation" => 5 "**hope**"
 
 ---
@@ -226,8 +231,8 @@ he is my mighty rock, my **refuge**.
 [Psalm 62:6-7 (NIV)](# "ref")
 
 >>>
-* rock (cliff), refuge (shelter), fortress (height)
-* salvation, not shaken, honor (glory)
++ rock (cliff), refuge (shelter), fortress (height)
++ salvation, not shaken, honor (glory)
 
 ______
 * e.g. JJ shush us
