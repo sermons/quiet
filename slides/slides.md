@@ -221,7 +221,7 @@ my **hope** comes from him.
 + 1 "salvation" => 5 "**hope**"
 
 ---
-Truly he is my **rock **and my **salvation**;<br>
+Truly he is my **rock** and my **salvation**;<br>
 he is my **fortress**, I will not be **shaken**.
 
 [7](# "ref")
