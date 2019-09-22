@@ -4,6 +4,8 @@
 [Mark Basarab](https://unsplash.com/photos/1k5Qq4YQM0g "caption")
 
 >>>
+
+______
 + Mother's Day not always **happy**:
 + those who **desire** to be m. but unable
   + those never knew a m.'s **love**
@@ -18,8 +20,7 @@
 # How do I **deal** with **personal attacks**?
 
 >>>
-+ not just for mothers, but all who
-  + feel **beaten down**
++ to all who feel **beaten down**
 + **attacked** by others w/evil intent
   + feel **powerless** to fight/flee
 ______
@@ -117,7 +118,7 @@ according to what they have done.”
 
 >>>
 + split by "Selah" (pause/rest)
-1. how **I** feel, what **they** intend
+1. their **actions**, **intentions**, and **words**
 1. what my soul will **do** <br> because of **who** God is
 1. what **truth** this reveals: <br> about **people**, **power**, and **Providence**
 + Opens w/**conclusion**:
