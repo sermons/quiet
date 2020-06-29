@@ -4,22 +4,13 @@
 [Mark Basarab](https://unsplash.com/photos/1k5Qq4YQM0g "caption")
 
 >>>
-+ Mother's Day not always **happy**:
-+ those who **desire** to be m. but unable
-  + those never knew a m.'s **love**
-+ stm reminder of painful **memories**
-  + own **fails** as parent/child
-+ sometimes feel **attacked**
-  + mothers always **giving** / serving
-+ worst **enemies** stm own family
 
 ---
 <!-- .slide: data-background="white" -->
 # How do I **deal** with **personal attacks**?
 
 >>>
-+ not just for mothers, but all who
-  + feel **beaten down**
++ for all who feel **beaten down**
 + **attacked** by others w/evil intent
   + feel **powerless** to fight/flee
 ______
