@@ -4,8 +4,6 @@
 [Mark Basarab](https://unsplash.com/photos/1k5Qq4YQM0g "caption")
 
 >>>
-
-______
 + Mother's Day not always **happy**:
 + those who **desire** to be m. but unable
   + those never knew a m.'s **love**
@@ -20,7 +18,8 @@ ______
 # How do I **deal** with **personal attacks**?
 
 >>>
-+ to all who feel **beaten down**
++ not just for mothers, but all who
+  + feel **beaten down**
 + **attacked** by others w/evil intent
   + feel **powerless** to fight/flee
 ______
@@ -118,7 +117,7 @@ according to what they have done.”
 
 >>>
 + split by "Selah" (pause/rest)
-1. their **actions**, **intentions**, and **words**
+1. how **I** feel, what **they** intend
 1. what my soul will **do** <br> because of **who** God is
 1. what **truth** this reveals: <br> about **people**, **power**, and **Providence**
 + Opens w/**conclusion**:
@@ -136,6 +135,7 @@ he is my **fortress**, I will never be shaken.
 [Hạ Long Bay, Vietnam. Vincent Guth](https://unsplash.com/photos/3sR_0NhWMEI "caption")
 
 >>>
++ toward **God**, stillness (is) my life
 + toward **God**, stillness (is) my life
 + "truly"/only: **emphasis** on God
   + "in": motion **toward**
@@ -382,7 +382,6 @@ according to what they have **done**.
 <!-- .slide: data-background="white" -->
 # What has my **suffering** revealed about **people**, **power**, and God's **Providence**?
 
----
 <!-- .slide: <%= bg("unsplash-1k5Qq4YQM0g-mtn_lake_sunset.jpg") %> -->
 [5](# "ref")
 Yes, my soul, **find rest** in God; <br>
