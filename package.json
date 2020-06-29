@@ -89,22 +89,30 @@
     "mathjax": "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js",
     "css": [
       {
-        "href": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css",
-        "integrity": "sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0="
+        "href": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/fontawesome.min.css",
+        "integrity": "sha256-CuUPKpitgFmSNQuPDL5cEfPOOJT/+bwUlhfumDJ9CI4="
+      },
+      {
+        "href": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/solid.min.css",
+        "integrity": "sha256-pIAzc/BIIo/hSvtNEDIiMTBtR9EfK3COmnH2pt8cPDY="
+      },
+      {
+        "href": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/brands.min.css",
+        "integrity": "sha256-wfbbsQFYKnizQi/WLPXS3wVDu0Dpi2yUQpZBDsb2H1s="
       },
       {
         "href": "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0/css/reveal.min.css",
         "integrity": "sha256-OxiHrn+gXudPDHxTvXiQzeFjZU/FllSSPmOOYAZ1O/g="
       },
       {
-        "href": "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.0.3/styles/atom-one-dark.min.css",
+        "href": "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.1/styles/atom-one-dark.min.css",
         "integrity": "sha256-91Q4dP2FrFQCLpK/8fPlQyatehNmhUOXKRFM1CtE7Sw="
       }
     ],
     "js": [
       {
-        "src": "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.0.3/highlight.min.js",
-        "integrity": "sha256-/2C3CAfmuTGkUqK2mVrhkTacBscoR1caE0u2QZZ3Uh8="
+        "src": "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.1/highlight.min.js",
+        "integrity": "sha256-Uv3H6lx7dJmRfRvH8TH6kJD1TSK1aFcwgx+mdg3epi8="
       },
       {
         "src": "https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.3.0/socket.io.slim.js",
@@ -115,8 +123,8 @@
         "integrity": "sha256-pv4AarTAzSO6lz+bbMPwmV29XMjkzmFOn601b2pWqXE="
       },
       {
-        "src": "https://cdnjs.cloudflare.com/ajax/libs/marked/1.0.0/marked.min.js",
-        "integrity": "sha256-JUIJCIbiDdnT6IGIU/ZbydNyumUIMsEelMTrSfDb1Sc="
+        "src": "https://cdnjs.cloudflare.com/ajax/libs/marked/1.1.0/marked.min.js",
+        "integrity": "sha256-POA+Q3FC8tyo/jZhQrw40H5mKcWAABdxNeUQ/uhIm4U="
       },
       {
         "src": "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0/plugin/markdown/markdown.min.js",
@@ -132,9 +140,9 @@
   "private": true,
   "dependencies": {
     "reveal.js": "^3.8.0",
-    "highlight.js": "^10.0.3",
+    "highlight.js": "^10.1.1",
     "socket.io": "^2.3.0",
-    "marked": "^1.0.0"
+    "marked": "^1.1.0"
   },
   "devDependencies": {
     "grunt": "^1.1.0",
