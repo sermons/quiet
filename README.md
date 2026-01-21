@@ -2,8 +2,7 @@
 ## Psalm 62
 
 [![Build status](https://github.com/sermons/quiet/actions/workflows/build.yml/badge.svg)](https://github.com/sermons/quiet/actions/workflows/build.yml)
-[![David](https://img.shields.io/david/sermons/quiet)](https://david-dm.org/sermons/quiet)
-[![David (dev)](https://img.shields.io/david/dev/sermons/quiet)](https://david-dm.org/sermons/quiet?type=dev)
+![Dependency check](https://img.shields.io/librariesio/github/sermons/quiet)
 
 Template presentation: [reveal-skel](https://github.com/sermons/reveal-skel)
 
